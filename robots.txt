@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://mahesh-bb.github.io/marutinandan-cctv/sitemap.xml
